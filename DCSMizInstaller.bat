@@ -14,7 +14,7 @@
 ::dAsiuh18IRvcCxnZtBJQ
 ::cRYluBh/LU+EWAnk
 ::YxY4rhs+aU+IeA==
-::cxY6rQJ7JhzQF1fEqQJhZksaHErSXA==
+::cxY6rQJ7JhzQF1fEqQJhZkoaHErSXA==
 ::ZQ05rAF9IBncCkqN+0xwdVs0
 ::ZQ05rAF9IAHYFVzEqQIUCygUYQ2YfEK0FaEd5OT+/Yo=
 ::eg0/rx1wNQPfEVWB+kM9LVsJDGQ=
@@ -44,7 +44,7 @@ if "%~1"=="" (
     color 0C
     echo %ESC%mhey twin%ESC%
     echo %ESC%myou need to drag and drop a .miz file onto this app.%ESC%
-    echo %ESC%mi recommend you put this .bat file onto your desktop%ESC%
+    echo %ESC%mi recommend you put this .exe file onto your desktop%ESC%
     echo.
     pause
     exit /b
