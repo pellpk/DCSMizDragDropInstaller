@@ -1,5 +1,5 @@
 # DCSMizDragDropInstaller
-simple .miz drag and drop installer for DCS World. /n
+simple .miz drag and drop installer for DCS World.
 
 heavily inspired by [Drag&Drop Installer for GSX Pro Profiles](https://flightsim.to/file/65242/drag-drop-installer-for-gsx-pro-profiles) for MSFS.
 
